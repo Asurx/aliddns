@@ -1,0 +1,8 @@
+ [
+    {
+      "ak": "阿里云Access Key ID",
+      "secret": "阿里云Access Key Secret",
+      "domain": "主域名",
+      "prefix": "域名前缀"
+    }
+  ]
