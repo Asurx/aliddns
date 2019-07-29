@@ -20,7 +20,7 @@ pip3 install requests aliyun-python-sdk-alidns
 
 ### 修改配置
 
-修改或者自行在`ddns.py`同级目录新建`config.json`文件，配置文件格式如下
+将`config-template.json`或者自行在`ddns.py`同级目录新建`config.json`文件，配置文件格式如下
 
 ```json
  [
